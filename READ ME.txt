@@ -1,0 +1,12 @@
+Akun Admin				
+email	: meja@meja.com				
+pass	: mejaadmin						
+
+Akun Admin
+Email : admin@admin.com
+Kata sandi : admin
+
+Akun Pelanggan
+Email : user@user.com
+Kata sandi : user
+
